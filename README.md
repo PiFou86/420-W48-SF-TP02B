@@ -122,12 +122,12 @@ Vous devez faire le travail en équipe de 2 personnes, au maximum. Le document d
    - Présentation du fonctionnement (3%)
 
 4. Fonctionnalités (50%)
-   - Démarrage/reprise entre les périodes/fin du match (5% par bouton, +5%  par le site web)
-   - Ajout/annulation d’un but (5% par bouton, +5%  par le site web)
+   - Démarrage/reprise entre les périodes/fin du match (5% par bouton, 5%  par le site web)
+   - Ajout/annulation d’un but (5% par bouton, 5%  par le site web)
    - Démonstration personnalisée du temps d’arrêt (5%)
    - Redémarrage du match en cours en cas de coupure d'électricité (10%)
    - Récupération de l'heure courante à partir d'un serveur NTP et du RTC d'ESP32 (5%)
-   - Affichage alterné du chronomètre et du pointage des équipes (10%)
+   - Affichage alterné du chronomètre et du pointage des équipes sur le 4 digits et affichage de ces informations sur la page web en temps intéractif (10%)
    - Optionnellement, total des pénalités "cartons jaunes/rouges" de chaque équipe durant le match (+5%)
    - Optionnellement, tout effet visuel permettant de stimuler l'entrain des spectateurs (+5%)
 
