@@ -180,4 +180,8 @@ L'évaluation du travail est effectuée par les enseignants de l'UE en se basant
   - Explication orale des choix de conception (Ex. "Nous avons fait une classe A et une classe B. Voici la méthode M" => 0% "Nous avons fait une classe A afin de pouvoir simplifier la gestion de E et de permettre de le remplacer par F un peu plus tard et limiter les impacts en cas de XYZ" => 100% si pertinent)
   - etc.
 
-Tout partage de code, d'explication, de bouts de texte, etc. est considéré comme du plagiat. Pour plus de détails, consultez le site (et ses vidéos) [Sois intègre du Cégep de Sainte-Foy](http://csfoy.ca/soisintegre) ainsi que [l'article 6.1.12 de la PÉA](https://www.csfoy.ca/fileadmin/documents/notre_cegep/politiques_et_reglements/5.9_PolitiqueEvaluationApprentissages_2019.pdf)
+- Participation au code : la participation est évaluée en utilisant GitInspector. Chaque étudiant doit être au dessus de 45% de participation ou vera sa note ajustée. Les codes faits en classe lors des exercices sont enlevés des statistiques pour ne pas pénaliser le partenaire qui ne met pas son ancien code. (Ex. Bouton.\[h|cpp], DEL.\[h|cpp])
+
+Tout partage de code, d'explications, de bouts de texte, etc. est considéré comme du plagiat. Pour plus de détails, consultez le site (et ses vidéos) [Sois intègre du Cégep de Sainte-Foy](http://csfoy.ca/soisintegre) ainsi que [l'article 6.1.12 de la PÉA](https://www.csfoy.ca/fileadmin/documents/notre_cegep/politiques_et_reglements/5.9_PolitiqueEvaluationApprentissages_2019.pdf)
+
+Si vous utilisez un code donné en cours, n'oubliez pas de référencer son origine dans votre code.
